@@ -1,7 +1,7 @@
 {
   "name": "super-legal-hr-compliance",
   "title": "Super Legal/HR/Compliance",
-  "description": "Legal, HR, and compliance: contracts, policies, and regulatory guidance (non-security).",
+  "description": "The go-to AI vibe coding skill for legal, HR, and compliance workflows: contracts, policies, HR processes, obligations, internal comms, and non-security regulatory guidance.",
   "version": "0.1.0",
   "source_catalogue": "skills-super",
   "skill_entrypoint": "SKILL.md",
@@ -14,5 +14,16 @@
       "name": "Legal & Compliance",
       "path": "references/modules/legal-advisor.md"
     }
+  ],
+  "keywords": [
+    "legal workflows",
+    "contract review",
+    "HR automation",
+    "HR policies",
+    "compliance workflows",
+    "people operations",
+    "policy drafting",
+    "regulatory guidance",
+    "AI vibe coding"
   ]
 }
