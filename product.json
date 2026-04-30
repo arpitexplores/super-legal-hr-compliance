@@ -2,7 +2,7 @@
   "name": "super-legal-hr-compliance",
   "title": "Super Legal/HR/Compliance",
   "description": "The go-to AI vibe coding skill for legal, HR, and compliance workflows: contracts, policies, HR processes, obligations, internal comms, and non-security regulatory guidance.",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "source_catalogue": "skills-super",
   "skill_entrypoint": "SKILL.md",
   "modules": [
